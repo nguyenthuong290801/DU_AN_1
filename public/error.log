@@ -1,0 +1,772 @@
+______
+[2023-11-07 07:05:42] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-07 07:05:42] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-07 07:05:42] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 07:05:42] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:03:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:03:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:04:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:04:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:05:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:05:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:11] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:11] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:22] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:22] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:06:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:07:29] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:07:29] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:07:32] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:07:32] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:25] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:25] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:48] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:48] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:49] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:09:49] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:18] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:18] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:19] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:19] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:21] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:21] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:21] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:21] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:37] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:37] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:38] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:38] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:39] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:10:39] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:11:57] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:11:57] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:13] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:13] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:43] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:43] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:49] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:12:49] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:13:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:13:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:14:02] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:14:02] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:39] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:39] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:40] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:40] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:41] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:41] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:48] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:48] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:50] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:50] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:51] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:51] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:15:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:03] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:03] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:05] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:05] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:05] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:05] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:22] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:22] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:23] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:23] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:31] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:31] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:46] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:46] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:47] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:47] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:51] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:51] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:16:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:21] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:21] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:22] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:22] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:25] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:25] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:17:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:10] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:10] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:11] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:11] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:25] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:25] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:29] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:29] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:18:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:02] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:02] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:19:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:20:19] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:20:19] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:20:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:20:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:38] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:38] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:38] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:38] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:44] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:44] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 199
+______
+[2023-11-07 17:23:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:57] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:23:57] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:24:44] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:24:44] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 198
+______
+[2023-11-07 17:27:46] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:27:46] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:27:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:27:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:27:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:27:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:37] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:37] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:37] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:37] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:38] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:38] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:39] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:39] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:39] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:39] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:46] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:29:46] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:30:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:28] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:28] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:30] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:30] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:46] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:46] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:57] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:57] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:32:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:13] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:13] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:13] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:13] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:53] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:53] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:33:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:33] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:33] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:38] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:34:38] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:36:05] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:36:05] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:36:05] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-07 17:36:05] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:50:29] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 09:50:29] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 09:50:29] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:50:29] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:51:36] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 09:51:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 09:51:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:51:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:53:59] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 09:53:59] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 09:53:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:53:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:56:07] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 09:56:07] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 09:56:07] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:56:07] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:57:36] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 09:57:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 09:57:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 09:57:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:00:59] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 10:00:59] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 10:00:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:00:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:01:01] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 10:01:01] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 10:01:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:01:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:02:51] Error: Creation of dynamic property React\Socket\Connection::$decor is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 83
+______
+[2023-11-09 10:02:51] Error: Creation of dynamic property Ratchet\Server\IoConnection::$resourceId is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 84
+______
+[2023-11-09 10:02:53] Error: Creation of dynamic property React\Socket\Connection::$decor is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 83
+______
+[2023-11-09 10:02:53] Error: Creation of dynamic property Ratchet\Server\IoConnection::$resourceId is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 84
+______
+[2023-11-09 10:02:54] Error: Creation of dynamic property React\Socket\Connection::$decor is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 83
+______
+[2023-11-09 10:02:54] Error: Creation of dynamic property Ratchet\Server\IoConnection::$resourceId is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 84
+______
+[2023-11-09 10:03:49] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 10:03:49] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 10:03:49] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 10:03:49] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:11] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 11:09:11] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 11:09:11] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:11] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:36] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 11:09:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 11:09:36] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:36] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:45] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 11:09:45] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 11:09:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:09:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:10:13] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 11:10:13] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 11:10:13] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:10:13] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 11:17:25] Error: Creation of dynamic property React\Socket\Connection::$decor is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 83
+______
+[2023-11-09 11:17:25] Error: Creation of dynamic property Ratchet\Server\IoConnection::$resourceId is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 84
+______
+[2023-11-09 11:17:25] Error: Creation of dynamic property Ratchet\Server\IoConnection::$remoteAddress is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Server\IoServer.php on line 87
+______
+[2023-11-09 11:17:25] Error: Creation of dynamic property Ratchet\Server\IoConnection::$httpHeadersReceived is deprecated in D:\dự án 1\DU_AN_1\vendor\cboden\ratchet\src\Ratchet\Http\HttpServer.php on line 33
+______
+[2023-11-09 12:12:43] Error: fsockopen(): Unable to connect to localhost:8080 (No connection could be made because the target machine actively refused it) in D:\dự án 1\DU_AN_1\app\controllers\client\ApiController.php on line 12
+______
+[2023-11-09 12:13:14] Error: fsockopen(): Unable to connect to localhost:8080 (No connection could be made because the target machine actively refused it) in D:\dự án 1\DU_AN_1\app\controllers\client\ApiController.php on line 12
+______
+[2023-11-09 12:13:24] Error: fsockopen(): Unable to connect to localhost:8080 (No connection could be made because the target machine actively refused it) in D:\dự án 1\DU_AN_1\app\controllers\client\ApiController.php on line 12
+______
+[2023-11-09 12:15:53] Error: stream_socket_server(): Unable to connect to tcp://0.0.0.0:80 (An attempt was made to access a socket in a way forbidden by its access permissions) in D:\dự án 1\DU_AN_1\vendor\react\socket\src\TcpServer.php on line 170
+______
+[2023-11-09 12:31:38] Error: fsockopen(): Unable to connect to localhost:8080 (No connection could be made because the target machine actively refused it) in D:\dự án 1\DU_AN_1\app\controllers\client\ApiController.php on line 12
+______
+[2023-11-09 15:26:43] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-09 15:26:43] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-09 15:26:43] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 15:26:43] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-09 15:55:26] Error: Undefined array key 1 in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 68
+______
+[2023-11-09 16:08:23] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
+______
+[2023-11-09 16:11:38] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
+______
+[2023-11-09 16:11:42] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
+______
+[2023-11-09 16:11:49] Error: foreach() argument must be of type array|object, string given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
