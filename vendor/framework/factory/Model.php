@@ -3,25 +3,35 @@
 namespace Illuminate\framework\factory;
 
 class Model
-{    public static function create($modelClassName, $data)
+{
+    public static function create($modelClassName, $data)
     {
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        $model->create($data);
+        $lastId = $model->create($data);
 
-        return $model;
+        return $lastId;
     }
 
+    public static function createFor($modelClassName, $data)
+    {
+
+        $fullClassName = 'App\models\\' . $modelClassName;
+        $model = new $fullClassName();
+        $lastId = $model->createFor($data);
+
+        return $lastId;
+    }
 
     public static function update($modelClassName, $id, array $data)
     {
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        $model->update($id, $data);
+        $count = $model->update($id, $data);
 
-        return $model;
+        return $count;
     }
 
     public static function delete($modelClassName, $id)
@@ -29,9 +39,9 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        $model->delete($id);
+        $count = $model->delete($id);
 
-        return $model;
+        return $count;
     }
 
     public static function softDelete($modelClassName, $id)
@@ -39,9 +49,9 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        $model->softDelete($id);
+        $count = $model->softDelete($id);
 
-        return $model;
+        return $count;
     }
 
     public static function restore($modelClassName, $id)
@@ -49,9 +59,9 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        $model->restore($id);
+        $count = $model->restore($id);
 
-        return $model;
+        return $count;
     }
 
     public static function find($modelClassName, $id)
@@ -59,11 +69,11 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        
+
         return $model->find($id);
     }
 
-    public static function where($modelClassName, $conditions)
+    public static function where($modelClassName, $conditions = [])
     {
 
         $fullClassName = 'App\models\\' . $modelClassName;
@@ -77,7 +87,7 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        
+
         return $model->findSlug($id);
     }
 
@@ -86,7 +96,7 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-        
+
         return $model->findCmt($id);
     }
 
@@ -95,17 +105,17 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-    
+
         return $model->withTrashed();
     }
 
-    public static function all($modelClassName)
+    public static function all($modelClassName, $order_by = 'ASC')
     {
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-    
-        return $model->all();
+
+        return $model->all($order_by);
     }
 
     public static function paginateWithTrashed($modelClassName, $page, $perPage)
@@ -113,7 +123,7 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-    
+
         return $model->paginateWithTrashed($page, $perPage);
     }
 
@@ -122,7 +132,7 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-    
+
         return $model->paginate($page, $perPage);
     }
 
@@ -131,7 +141,7 @@ class Model
 
         $fullClassName = 'App\models\\' . $modelClassName;
         $model = new $fullClassName();
-    
+
         return $model->login($email, $passowrd);
     }
 }

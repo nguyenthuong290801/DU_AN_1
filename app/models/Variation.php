@@ -4,15 +4,12 @@ namespace App\models;
 
 use Illuminate\framework\base\Model;
 
-class Product extends Model
+class Variation extends Model
 {
-    protected $table = 'product';
+    protected $table = 'variation';
 
     protected $columns = [
         'id',
-        'product_category_id',
         'name',
-        'slug',
-        'description',
     ];
 }

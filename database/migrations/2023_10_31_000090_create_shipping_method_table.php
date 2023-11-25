@@ -21,8 +21,10 @@ class Shipping_Method implements Migration
             $table->float('height');
             $table->string('name');
             $table->float('price');
+            $table->integer('product_id');
             $table->timestamps();
             $table->softDeletes();
+            $table->foreignId('product_id', 'product');
         });
     }
 

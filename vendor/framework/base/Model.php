@@ -4,6 +4,7 @@ namespace Illuminate\framework\base;
 
 use Illuminate\framework\Application;
 use Illuminate\framework\interface\Model as ModelInterface;
+
 class Model implements ModelInterface
 {
     protected $table;
@@ -31,14 +32,14 @@ class Model implements ModelInterface
         return $columnsString;
     }
 
-    public function all($limit = null, $offset = 0)
+    public function all($order_by = 'ASC', $limit = null, $offset = 0)
     {
         if ($limit !== null) {
             return $this->limit($limit, $offset);
         }
 
         $query = "SELECT {$this->toString()} FROM {$this->table} WHERE deleted_at IS NULL 
-              ORDER BY created_at DESC";
+              ORDER BY created_at $order_by";
         $stmt = $this->pdo->prepare($query);
         $stmt->execute();
         return $stmt->fetchAll(\PDO::FETCH_ASSOC);
@@ -110,13 +111,11 @@ class Model implements ModelInterface
         $params = [];
 
         foreach ($conditions as $column => $value) {
-            // Sử dụng cú pháp dấu hai chấm để tránh SQL injection
             $paramName = ':' . $column;
             $whereClause .= "$column = $paramName AND ";
             $params[$paramName] = $value;
         }
 
-        // Loại bỏ "AND " cuối cùng
         $whereClause = rtrim($whereClause, ' AND ');
 
         $query = "SELECT {$this->toString()} FROM {$this->table} WHERE $whereClause";
@@ -149,7 +148,7 @@ class Model implements ModelInterface
 
     public function create(array $data)
     {
-        
+
         if (isset($data['name'])) {
             $searchValue = 'name';
             $matchingKeys = preg_grep("/$searchValue/i", array_keys($data));
@@ -157,13 +156,31 @@ class Model implements ModelInterface
             $slug = $this->slug($data["$matchingKeysString"]);
             $data['slug'] = $slug;
         }
-        
+
         $columns = implode(', ', array_keys($data));
         $placeholders = ':' . implode(', :', array_keys($data));
         $query = "INSERT INTO {$this->table} ($columns) VALUES ($placeholders)";
 
         $stmt = $this->pdo->prepare($query);
         $stmt->execute($data);
+
+        return $this->pdo->lastInsertId();
+    }
+
+    public function createFor(array $dataArray)
+    {
+        foreach ($dataArray as $data) {
+            $columns = implode(', ', array_keys($data));
+            $placeholders = ':' . implode(', :', array_keys($data));
+        }
+
+        $query = "INSERT INTO {$this->table} ($columns) VALUES ($placeholders)";
+
+        $stmt = $this->pdo->prepare($query);
+
+        foreach ($dataArray as $data) {
+            $stmt->execute($data);
+        }
 
         return $this->pdo->lastInsertId();
     }
@@ -181,7 +198,7 @@ class Model implements ModelInterface
         }
         return $text;
     }
-    
+
 
     public function update($id, array $data)
     {
@@ -223,8 +240,6 @@ class Model implements ModelInterface
         $stmt->execute(['id' => $id]);
         return $stmt->rowCount();
     }
-
-
 
     public function login($email, $password)
     {

@@ -4,15 +4,13 @@ namespace App\models;
 
 use Illuminate\framework\base\Model;
 
-class Product extends Model
+class AttributeOption extends Model
 {
-    protected $table = 'product';
+    protected $table = 'attribute_option';
 
     protected $columns = [
         'id',
         'product_category_id',
-        'name',
-        'slug',
-        'description',
+        'attribute_name',
     ];
 }

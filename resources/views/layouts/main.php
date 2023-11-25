@@ -16,7 +16,6 @@
 <body>
 <div>
     <?= '{{content}}'; ?>
-    hello
 </div>
 </body>
 </html>

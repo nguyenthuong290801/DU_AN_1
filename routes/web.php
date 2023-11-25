@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\framework\factory\Route;
+use App\controllers\client\ApiController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes

@@ -770,3 +770,635 @@ ______
 [2023-11-09 16:11:42] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
 ______
 [2023-11-09 16:11:49] Error: foreach() argument must be of type array|object, string given in D:\dự án 1\DU_AN_1\app\controllers\admin\ApiController.php on line 81
+______
+[2023-11-17 17:38:10] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-17 17:38:10] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-17 17:38:10] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:38:10] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:38:12] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:38:12] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:39:56] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:39:56] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:41:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:41:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:51:12] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 17:51:12] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:32:50] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:32:50] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:33:44] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:33:44] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:45:52] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-17 19:45:52] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-17 19:45:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 19:45:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:15:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:15:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:16:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:16:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:19:46] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:19:46] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:21:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:21:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:22:19] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:22:19] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:22:57] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:22:57] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:25:44] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:25:44] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:26:47] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:26:47] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:43] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:43] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:50] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:50] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:59] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:29:59] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:30:40] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-17 20:30:40] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-17 20:30:40] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:30:40] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:30:52] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 112
+______
+[2023-11-17 20:31:09] Error: foreach() argument must be of type array|object, bool given in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 112
+______
+[2023-11-17 20:31:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:31:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:33:06] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:33:06] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:33:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 20:33:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 21:25:51] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-17 21:25:51] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-17 21:25:51] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 21:25:51] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-17 21:35:18] Error: Array to string conversion in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 41
+______
+[2023-11-19 12:45:32] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-19 12:45:32] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-19 12:45:32] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 12:45:32] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:42:02] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-19 20:42:02] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-19 20:42:02] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:42:02] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:01] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-19 20:46:01] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-19 20:46:01] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:01] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:10] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-19 20:46:10] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-20 17:07:49] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-20 17:07:49] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-20 17:07:49] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-20 17:07:49] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-22 15:38:13] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-22 15:38:13] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-23 12:41:55] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-23 12:41:55] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-23 12:41:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 12:41:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 12:50:50] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 108
+______
+[2023-11-23 12:50:50] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 109
+______
+[2023-11-23 12:50:50] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 12:50:50] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 12:59:15] Error: Undefined array key "product" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 70
+______
+[2023-11-23 15:15:10] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 96
+______
+[2023-11-23 15:15:10] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 97
+______
+[2023-11-23 15:15:10] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:15:10] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:21:11] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:21:11] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:38:37] Error: Undefined array key "product" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 70
+______
+[2023-11-23 15:39:37] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:39:37] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:40:16] Error: Undefined array key "product" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 70
+______
+[2023-11-23 15:42:55] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:42:55] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:00] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:00] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:14] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 93
+______
+[2023-11-23 15:43:14] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 94
+______
+[2023-11-23 15:43:14] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:14] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:24] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:24] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:43:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:45:12] Error: Undefined array key "PATH_INFO" in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 93
+______
+[2023-11-23 15:45:12] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\dự án 1\DU_AN_1\vendor\framework\Request.php on line 94
+______
+[2023-11-23 15:45:12] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:45:12] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:45:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:45:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:46:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:46:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:46:05] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:46:05] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:47:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:47:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:47:45] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:47:45] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:49:08] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:50:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:50:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:53:42] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 15:53:42] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:00:02] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:00:02] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:01:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:01:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:22:58] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:22:58] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:03] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:03] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:04] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:23:04] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:47:21] Error: Trying to access array offset on value of type null in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 71
+______
+[2023-11-23 16:49:35] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:49:35] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:28] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:28] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:32] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:51:32] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:53:39] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:53:39] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:53:54] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:53:54] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:29] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:29] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:47] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:47] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:47] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:54:47] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:55:15] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:55:15] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:55:21] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 16:55:21] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:00:20] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:00:20] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:16] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:16] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:17] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:02:17] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:04:24] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:04:24] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:06:52] Error: include_once(D:\dự án 1\DU_AN_1/resources/views/_404.php): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-23 18:06:52] Error: include_once(): Failed opening 'D:\dự án 1\DU_AN_1/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in D:\dự án 1\DU_AN_1\vendor\framework\Router.php on line 197
+______
+[2023-11-24 04:50:03] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:50:03] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:50:03] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:51:15] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:51:15] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:51:15] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:53:55] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:53:55] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:53:55] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:19] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:19] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:19] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:43] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:43] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 04:56:43] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 194
+______
+[2023-11-24 05:09:36] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:09:36] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:09:36] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:12:51] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:12:51] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:12:51] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:13:33] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:13:33] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:13:33] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 196
+______
+[2023-11-24 05:18:34] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 165
+______
+[2023-11-24 05:18:34] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 165
+______
+[2023-11-24 05:18:40] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 165
+______
+[2023-11-24 05:18:40] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 165
+______
+[2023-11-24 05:34:55] Error: file_put_contents(public/upload656027efee061.jpg): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 76
+______
+[2023-11-24 05:34:55] Error: file_put_contents(public/upload656027efee2de.jpg): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 76
+______
+[2023-11-24 05:35:24] Error: file_put_contents(public/upload6560280c96f77.jpg): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 76
+______
+[2023-11-24 05:35:24] Error: file_put_contents(public/upload6560280c971c3.jpg): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 76
+______
+[2023-11-24 05:37:30] Error: file_put_contents(public/upload/6560288a33ef3.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 87
+______
+[2023-11-24 05:37:30] Error: file_put_contents(public/upload/6560288a341a8.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 87
+______
+[2023-11-24 07:15:01] Error: file_put_contents(/path/to/your/public/upload/image_65603f6537623.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 88
+______
+[2023-11-24 07:15:37] Error: file_put_contents(/public/upload/image_65603f89ba67f.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 88
+______
+[2023-11-24 07:16:12] Error: file_put_contents(/public/upload/image_65603fac80f10.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 88
+______
+[2023-11-24 07:16:38] Error: file_put_contents(/public/upload/image_65603fc672f17.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 88
+______
+[2023-11-24 07:18:32] Error: file_put_contents(/public/upload/image_65604038c08f5.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 79
+______
+[2023-11-24 07:19:07] Error: file_put_contents(/public/upload/image_6560405b1fa4f.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 79
+______
+[2023-11-24 07:21:02] Error: file_put_contents(/public/upload/image_656040ceab6f9.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 80
+______
+[2023-11-24 07:22:32] Error: file_put_contents(D:\dự án 1\DU_AN_1\app\controllers\seller/../public/upload/image_65604128012a4.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 83
+______
+[2023-11-24 07:26:42] Error: file_put_contents(/../../../public/upload/image_65604222d917a.png): Failed to open stream: No such file or directory in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 83
+______
+[2023-11-24 07:42:05] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 165
+______
+[2023-11-24 08:04:17] Error: foreach() argument must be of type array|object, null given in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 117
+______
+[2023-11-24 20:55:43] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 20:58:05] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 20:58:36] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 20:59:24] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 21:01:35] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 21:04:04] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 21:05:45] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 21:16:37] Error: iconv(): Detected an illegal character in input string in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 191
+______
+[2023-11-24 21:41:57] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 117
+______
+[2023-11-24 21:41:57] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 117
+______
+[2023-11-24 21:42:36] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 117
+______
+[2023-11-24 21:42:36] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 117
+______
+[2023-11-25 06:10:22] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 123
+______
+[2023-11-25 06:10:22] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 123
+______
+[2023-11-25 06:10:22] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 123
+______
+[2023-11-25 06:10:22] Error: Array to string conversion in D:\dự án 1\DU_AN_1\vendor\framework\base\Model.php on line 123
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:14:53] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:16] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:20:21] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 120
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:21:47] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 119
+______
+[2023-11-25 06:22:51] Error: Undefined array key "id" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 116
+______
+[2023-11-25 07:12:34] Error: Undefined array key "image" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 07:12:34] Error: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 11:35:45] Error: Undefined array key "image" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 106
+______
+[2023-11-25 11:35:45] Error: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 106
+______
+[2023-11-25 12:19:55] Error: Undefined array key "image" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 12:19:55] Error: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 14:40:39] Error: Undefined array key "image" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 14:40:39] Error: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 14:42:17] Error: Undefined array key "image" in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104
+______
+[2023-11-25 14:42:17] Error: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in D:\dự án 1\DU_AN_1\app\controllers\seller\ApiController.php on line 104

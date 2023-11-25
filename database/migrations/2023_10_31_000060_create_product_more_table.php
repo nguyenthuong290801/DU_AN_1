@@ -15,7 +15,7 @@ class Product_More implements Migration
     {
         Schema::create('product_more', function (Blueprint $table) {
             $table->id();
-            $table->boolean('pre_order');
+            $table->integer('pre_order');
             $table->string('status');
             $table->string('SKU');
             $table->integer('product_id');

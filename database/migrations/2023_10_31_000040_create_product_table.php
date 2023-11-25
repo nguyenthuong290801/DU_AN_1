@@ -18,12 +18,10 @@ class Product implements Migration
             $table->string('name');
             $table->string('slug');
             $table->text('description');
-            $table->string('product_image');
-            $table->string('product_video');
-            $table->integer('category_id');
+            $table->integer('product_category_id');
             $table->timestamps();
             $table->softDeletes();
-            $table->foreignId('category_id', 'product_category');
+            $table->foreignId('product_category_id', 'product_category');
         });
     }
 

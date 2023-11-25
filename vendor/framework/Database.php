@@ -29,4 +29,9 @@ class Database
         }
     }
 
+    public function getLastInsertId()
+    {
+        return $this->pdo->lastInsertId();
+    }
+
 }

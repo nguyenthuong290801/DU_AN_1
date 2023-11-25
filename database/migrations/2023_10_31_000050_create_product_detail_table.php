@@ -16,6 +16,8 @@ class Product_Detail implements Migration
         Schema::create('product_detail', function (Blueprint $table) {
             $table->id();
             $table->integer('product_id');
+            $table->float('price');
+            $table->float('qty_in_stock');
             $table->json('detail');
             $table->timestamps();
             $table->softDeletes();

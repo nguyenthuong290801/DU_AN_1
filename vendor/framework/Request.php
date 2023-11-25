@@ -4,10 +4,6 @@ namespace Illuminate\framework;
 
 class Request
 {
-    public string $controller;
-    public string $action;
-    public string $param;
-
     public function getPath()
     {
         $path = $_SERVER['REQUEST_URI'] ?? '/';
@@ -43,6 +39,13 @@ class Request
         $body = [];
 
         if ($this->method() === 'get') {
+            $inputData = json_decode(file_get_contents("php://input"), true);
+
+            if ($inputData) {
+                foreach ($inputData as $key => $value) {
+                    $body[$key] = $value;
+                }
+            }
 
             foreach ($_GET as $key => $value) {
                 $body[$key] = filter_input(INPUT_GET, $key, FILTER_SANITIZE_SPECIAL_CHARS);
@@ -50,33 +53,25 @@ class Request
         }
 
         if ($this->method() === 'post') {
+            $inputData = json_decode(file_get_contents("php://input"), true);
 
-            foreach ($_POST as $key => $value) {
-                $body[$key] = filter_input(INPUT_POST, $key, FILTER_SANITIZE_SPECIAL_CHARS);
+            if ($inputData) {
+                foreach ($inputData as $key => $value) {
+                    $body[$key] = $value;
+                }
             }
 
-            // $isFirstKey = true;
-            // foreach ($_FILES as $key => $file) {
-                
-            //     if (!$isFirstKey && $file && $file['error'] !== UPLOAD_ERR_NO_FILE) {
-            //         $target_dir = './upload/';
-            //         $body[$key] = $this->uploadFile($file, $target_dir);
-            //         Debug::var_dump($this->uploadFile($file, $target_dir));
-                    
-            //     }
-            //     $isFirstKey = false;
-            // }
-
-            if($_FILES) {
-                $_FILES['thumbnail'];
-                $target_dir = './upload/';
-                $body['thumbnail'] = $this->uploadFile($_FILES['thumbnail'], $target_dir);
-
+            foreach ($_FILES as $key => $file) {
+                if ($file && $file['error'] !== UPLOAD_ERR_NO_FILE) {
+                    $target_dir = './upload/';
+                    $body[$key] = $this->uploadFile($file, $target_dir);
+                }
             }
         }
 
         return $body;
     }
+
 
     public function uploadFile($file, $target_dir)
     {
@@ -111,5 +106,26 @@ class Request
         $param = rtrim($param, '/');
 
         return $param;
+    }
+
+    function getImageExtensionFromBase64($base64String) {
+        $data = explode(',', $base64String);
+    
+        $decodedData = base64_decode($data[1]);
+    
+        $finfo = finfo_open();
+        $mimeType = finfo_buffer($finfo, $decodedData, FILEINFO_MIME_TYPE);
+        finfo_close($finfo);
+    
+        $mimeToExtension = [
+            'image/jpeg' => 'jpg',
+            'image/png' => 'png',
+            'image/gif' => 'gif',
+            'image/bmp' => 'bmp',
+        ];
+
+        $extension = $mimeToExtension[$mimeType] ?? null;
+    
+        return $extension;
     }
 }
